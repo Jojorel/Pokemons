@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+const element = <h1>Hello world</h1>;
+console.log(element)
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
